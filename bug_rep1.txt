@@ -1,0 +1,18 @@
+BUG REPORT
+# Issue description
+Payment for the selected product not accepted by using MasterCard.
+
+# Steps to reproduce the issue.
+1. Enter internet shop URL: www.shop24@all.com 
+2. Choose a product
+3. Add product to the cart
+4. Choose your payment method
+
+# What's the expected result?
+- Payment approved, purchase completed
+
+# What's the actual result?
+- Payment by MasterCard does not accept by payment system 
+
+# Additional details.
+- All other payment methods is accepted by payment system.
